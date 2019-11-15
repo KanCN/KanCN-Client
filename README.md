@@ -12,6 +12,6 @@ KanCN一款为海外华人提供网络加速服务的专属应用，可以一键
 KanCN 看中国，一键穿梭回国，就是那么简单。
 
 # 下载链接
-- [KanCN 安卓版下载链接](https://github.com/KanCN/KanCN/raw/master/KanCN.apk)
+- [KanCN 安卓版](https://github.com/KanCN/KanCN/raw/master/KanCN.apk)
 
-- [KanCN iOS版下载链接](https://apps.apple.com/cn/app/id1475240284)
+- [KanCN iOS版](https://apps.apple.com/cn/app/id1475240284)

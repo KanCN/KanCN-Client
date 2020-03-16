@@ -4,8 +4,8 @@
 
 # 下载链接
 - KanCN 安卓版
-  [Google Play下载](https://kancn.oss-us-west-1.aliyuncs.com/android/8/kancn.apk)
-  [官网下载](https://play.google.com/store/apps/details?id=com.xh.kancn)
+  * [Google Play下载](https://kancn.oss-us-west-1.aliyuncs.com/android/8/kancn.apk)
+  * [官网下载](https://play.google.com/store/apps/details?id=com.xh.kancn)
 - [KanCN iOS版](https://apps.apple.com/cn/app/id1475240284)
 
 KanCN一款为海外华人提供网络加速服务的专属应用，可以一键穿梭回国，随时畅享国内音乐、观看国内视频，畅玩游戏，全球线路，极速稳定，告别延迟卡顿 ，帮助海外华人畅快访问国内各大主流平台。
